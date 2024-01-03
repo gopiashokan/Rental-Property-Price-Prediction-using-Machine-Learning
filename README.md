@@ -1,1 +1,1 @@
-# Smart-Predictive-Modeling-for-Rental-Property-Prices
+# Rental_Property_Prices_Prediction
