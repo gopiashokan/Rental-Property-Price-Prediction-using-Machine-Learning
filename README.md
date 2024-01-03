@@ -1,1 +1,1 @@
-# Rental_Property_Prices_Prediction
+# Rental Property Prices Prediction
