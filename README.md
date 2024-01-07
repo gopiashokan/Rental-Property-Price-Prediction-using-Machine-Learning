@@ -81,9 +81,7 @@ To use this project, follow these steps:
 
 **Exploratory Data Analysis (EDA) - Streamlit Application:**
 
-**Migrating to SQL**: 
-- Following the rent predictions, the data is migrated to a PostgreSQL database. Leveraging PostgreSQL as a Relational Database Management System allows us to store structured data in a tabular format. 
-- Utilizing SQL queries, we seamlessly access the required data from the database, facilitating efficient retrieval and analysis of pertinent information.
+**Migrating to SQL**: Following the rent predictions, the data is migrated to a PostgreSQL database. Leveraging PostgreSQL as a Relational Database Management System allows us to store structured data in a tabular format. Utilizing SQL queries, we seamlessly access the required data from the database, facilitating efficient retrieval and analysis of pertinent information.
 
 **Property Type (BHK) Analysis**: Analyzing the average rent based on property types (BHK) provides valuable insights into the rental landscape. This breakdown allows us to understand how different configurations influence rental pricing, offering nuanced perspectives for both property owners and tenants.
 
