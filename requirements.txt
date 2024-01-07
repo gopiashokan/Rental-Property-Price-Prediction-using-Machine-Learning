@@ -7,5 +7,5 @@ plotly
 matplotlib
 seaborn
 streamlit
-streamlit_option_menu
-streamlit_extras
+streamlit-option-menu
+streamlit-extras
