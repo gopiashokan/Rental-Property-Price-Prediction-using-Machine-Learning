@@ -847,7 +847,7 @@ class prediction:
                 with st.spinner(text='Processing...'):
 
                     # load the regression pickle model
-                    with open(r'model\regression_model.pkl', 'rb') as f:
+                    with open(r'regression_model.pkl', 'rb') as f:
                         model = pickle.load(f)
                     
                     # amenity encoding based on user input
