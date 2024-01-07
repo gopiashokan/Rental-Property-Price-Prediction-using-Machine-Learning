@@ -1,6 +1,6 @@
 numpy
 pandas
-psycopg2
+psycopg2-binary
 scikit-learn==1.3.2
 xgboost
 plotly
