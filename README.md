@@ -81,17 +81,17 @@ To use this project, follow these steps:
 
 **Exploratory Data Analysis (EDA) - Streamlit Application:**
 
-**Migrating to SQL**: Following the rent predictions, the data is migrated to a PostgreSQL database. Leveraging PostgreSQL as a Relational Database Management System allows us to store structured data in a tabular format. Utilizing SQL queries, we seamlessly access the required data from the database, facilitating efficient retrieval and analysis of pertinent information.
+- **Migrating to SQL**: Following the rent predictions, the data is migrated to a PostgreSQL database. Leveraging PostgreSQL as a Relational Database Management System allows us to store structured data in a tabular format. Utilizing SQL queries, we seamlessly access the required data from the database, facilitating efficient retrieval and analysis of pertinent information.
 
-**Property Type (BHK) Analysis**: Analyzing the average rent based on property types (BHK) provides valuable insights into the rental landscape. This breakdown allows us to understand how different configurations influence rental pricing, offering nuanced perspectives for both property owners and tenants.
+- **Property Type (BHK) Analysis**: Analyzing the average rent based on property types (BHK) provides valuable insights into the rental landscape. This breakdown allows us to understand how different configurations influence rental pricing, offering nuanced perspectives for both property owners and tenants.
 
-**Lease Type and Property Characteristics**: Examining average rents in relation to lease types, property size, and age facilitates a comprehensive understanding of the market. This analysis sheds light on the varying dynamics of lease preferences, property dimensions, and age factors, aiding in strategic decision-making.
+- **Lease Type and Property Characteristics**: Examining average rents in relation to lease types, property size, and age facilitates a comprehensive understanding of the market. This analysis sheds light on the varying dynamics of lease preferences, property dimensions, and age factors, aiding in strategic decision-making.
 
-**Amenities and Property Features**: Diving into average rents based on amenities count and specific amenities (e.g., gym, lift, swimming pool, internet, AC) provides a detailed view of the impact these features have on rental prices. Understanding tenant preferences for such amenities can inform property management strategies and highlight potential areas for improvement or investment.
+- **Amenities and Property Features**: Diving into average rents based on amenities count and specific amenities (e.g., gym, lift, swimming pool, internet, AC) provides a detailed view of the impact these features have on rental prices. Understanding tenant preferences for such amenities can inform property management strategies and highlight potential areas for improvement or investment.
 
-**Location and Structural Impact**: Exploring average rents concerning location-specific and structural factors such as parking, facing direction, floor arrangement, total floor count, balconies, and negotiability unravels how these elements contribute to the rental market landscape. This examination aids property stakeholders in making informed decisions in a dynamic real estate environment.
+- **Location and Structural Impact**: Exploring average rents concerning location-specific and structural factors such as parking, facing direction, floor arrangement, total floor count, balconies, and negotiability unravels how these elements contribute to the rental market landscape. This examination aids property stakeholders in making informed decisions in a dynamic real estate environment.
 
-**Prediction**: Users provide input parameters and leveraging the pre-trained Random Forest Regressor model stored in a pickle file, the system predicts weekly sales based on the user's input. Users can experiment with various combinations of input values, allowing our machine learning regression model to dynamically forecast rent tailored to the provided data parameters. This interactive feature enhances user engagement and facilitates personalized predictions.
+- **Prediction**: Users provide input parameters and leveraging the pre-trained Random Forest Regressor model stored in a pickle file, the system predicts weekly sales based on the user's input. Users can experiment with various combinations of input values, allowing our machine learning regression model to dynamically forecast rent tailored to the provided data parameters. This interactive feature enhances user engagement and facilitates personalized predictions.
 
 
 ## Contributing
