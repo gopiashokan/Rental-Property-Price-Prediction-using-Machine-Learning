@@ -1,4 +1,4 @@
-# Rental Property Prices Prediction
+# Rental Property Price Prediction using Machine Learning
 
 ## Introduction
 
